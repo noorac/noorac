@@ -1,12 +1,13 @@
 
 
 <h1>Hi, my name is Kjetil👋</h1>
+<h5>This portfolio/page is currently under construction</h5>
 <h4>My main focus is on Python programming</h4>
 <br>
 <h3>Python projects:</h3>
-- Password generator
+- Password generator (link to repo will come later)
 <h3>Web development:</h3>
-- Website for a psychologist, currently under construction
+- Website for an italian psychologist, currently under construction (link will arrive later)
 
 <br>
 <h2> 🤳 Connect with me:</h2>
