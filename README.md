@@ -5,7 +5,9 @@
 <h4>My main focus is on Python programming</h4>
 <br>
 <h3>Python projects:</h3>
-- Password generator (link to repo will come later)
+<p>- Todotra: my take on a todo-tracker, the classic todo-list program.
+<a href="https://github.com/noorac/Todotra">https://github.com/noorac/Todotra</a></p>
+<p>- Password generator (link to repo will come later)</p>
 <h3>Web development:</h3>
 <a href="https://www.gbpsicoterapia.it/en">https://www.gbpsicoterapia.it/en</a>
 <p>
