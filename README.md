@@ -6,7 +6,7 @@
 <br>
 <h3>Python projects:</h3>
 <p>- todotra: my take on a todo-tracker, the classic todo-list program.<br>
-<a href="https://github.com/noorac/Todotra">https://github.com/noorac/Todotra</a></p>
+<a href="https://github.com/noorac/todotra">https://github.com/noorac/todotra</a></p>
 <p>- pwdgen: a program that will generate random passwords of varying length and copy it to the clipboard.<br>
 <a href="https://github.com/noorac/pwdgen">https://github.com/noorac/pwdgen</a></p>
 <h3>Web development:</h3>
