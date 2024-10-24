@@ -9,6 +9,8 @@
 <a href="https://github.com/noorac/todotra">https://github.com/noorac/todotra</a></p>
 <p>- pwdgen: a program that will generate random passwords of varying length and copy it to the clipboard.<br>
 <a href="https://github.com/noorac/pwdgen">https://github.com/noorac/pwdgen</a></p>
+<p>- Py-sort-collection: A collection of python scripts for different sorting algorithms. Just used for practice.<br>
+<a href="https://github.com/noorac/py-sort-collection">https://github.com/noorac/py-sort-collection</a></p>
 <h3>Web development:</h3>
 <a href="https://www.gbpsicoterapia.it/en">https://www.gbpsicoterapia.it/en</a>
 <p>
