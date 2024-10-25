@@ -1,8 +1,8 @@
 
 
 <h1>Hi, my name is Kjetil👋</h1>
-<h5>This portfolio/page is currently under construction</h5>
-<h4>My main focus is on Python programming</h4>
+<h5>This portfolio was started not too long ago, and is therefore not very populated.</h5>
+<h4>My main focus is on Python programming, but I also venture into HTML/CSS and just recently JS.</h4>
 <br>
 <h3>Python projects:</h3>
 <p>- todotra: my take on a todo-tracker, the classic todo-list program.<br>
