@@ -2,7 +2,7 @@
 
 <h1>Hi, my name is Kjetil!👋</h1>
 <h5>This portfolio was started not too long ago, and is therefore not very populated with projects. I am slowly both adding new repos/projects, but aldo adding new features to my current projects. .</h5>
-<h4>My main focus is on Python programming, but I also venture into HTML/CSS and have just recently starter playing with JS. In the past I have tried a bit of Java and C++. In the future I am thinking of wetting myself once again in C++, but also complete my knowledge of LAMP and MERN.</h4>
+<h4>My main focus is on Python programming, but I also venture into HTML/CSS and have just recently starter playing with JS. In the past I have tried a bit of Java and C++. In the future I am thinking of dipping myself once again in C++, but also complete my knowledge of LAMP and MERN.</h4>
 <br>
 <h3>Python projects:</h3>
 <p>- todotra: my take on a todo-tracker, the classic todo-list program.<br>
