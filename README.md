@@ -5,7 +5,7 @@
 <h4>My main focus is on Python programming, but I also venture into HTML/CSS and have just recently starter playing with JS. In the past I have tried a bit of Java and C++. In the future I am thinking of dipping myself once again in C++, but also further my knowledge of the LAMP/MERN stacks.</h4>
 <br>
 <h3>Python projects:</h3>
-<p>- todotra: my take on a todo-tracker, the classic todo-list program.<br>
+<p>- todotra: my take on a todo-tracker, the classic todo-list program. This is just here because it has to be in any portfolio.<br>
 <a href="https://github.com/noorac/todotra">https://github.com/noorac/todotra</a></p>
 <p>- pwdgen: a program that will generate random passwords of varying length and copy it to the clipboard.<br>
 <a href="https://github.com/noorac/pwdgen">https://github.com/noorac/pwdgen</a></p>
