@@ -11,10 +11,10 @@
 <a href="https://github.com/noorac/pwdgen">https://github.com/noorac/pwdgen</a></p>
 <p>- Py-sort-collection: A collection of python scripts for different sorting algorithms.<br>
 <a href="https://github.com/noorac/py-sort-collection">https://github.com/noorac/py-sort-collection</a></p>
-<h3>Javascript projects:</h3>
+<h3>Javascript journey:</h3>
 <p>- Javascript basic projects: is a fork from a tutorial from freecodecamp. I have recently started learning JS; I'm not too far along, but might aswell signal that I've started.<br>
 <a href="https://github.com/noorac/javascript-basic-projects">https://github.com/noorac/javascript-basic-projects</a></p>
-<h3>Web development:</h3>
+<h3>Some freelance web development:</h3>
 <a href="https://www.gbpsicoterapia.it/en">https://www.gbpsicoterapia.it/en</a>
 <p>
   Website for an italian psychologist. Site is currently under construction and different themes being reviewed by the client. Site was built using wordpress/elementor.
