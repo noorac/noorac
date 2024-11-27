@@ -10,7 +10,7 @@
 <p>- pwdgen: a program that will generate random passwords of varying length and copy it to the clipboard.<br>
 <a href="https://github.com/noorac/pwdgen">https://github.com/noorac/pwdgen</a></p>
 <p>- Py-sort-collection: A collection of python scripts for different sorting algorithms.<br>
-<a href="https://github.com/noorac/py-sort-collection">https://github.com/noorac/py-sort-collection</a></p>
+<a href="https://github.com/noorac/py-sorting-algorithms">https://github.com/noorac/py-sorting-algorithms</a></p>
 <h3>Javascript journey:</h3>
 <p>- Javascript basic projects: is a fork from a tutorial from freecodecamp. I have recently started learning JS; I'm not too far along, but might aswell signal that I've started.<br>
 <a href="https://github.com/noorac/javascript-basic-projects">https://github.com/noorac/javascript-basic-projects</a></p>
