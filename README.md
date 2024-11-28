@@ -1,38 +1,86 @@
+# Hi, my name is Kjetil Paulsen
 
+Welcome to my portfolio! This repository showcases the projects I've developed to demonstrate my skills in Python programming, web development, and problem-solving. Below, you'll find a brief overview of each project with links to their respective repositories.
 
-<h1>Hi, my name is Kjetil!👋</h1>
-<h5>This portfolio was started not too long ago, and is therefore not very populated with projects. I am slowly both adding new repos/projects, but aldo adding new features to my current projects. .</h5>
-<h4>My main focus is on Python programming(including libraries like pandas, matplotlib, numpy, scipy), but I also venture into HTML/CSS and have just recently starter playing with JS. In the past I have tried a bit of Java and C++. In the future I am thinking of dipping myself once again in C++, but also further my knowledge of the LAMP/MERN stacks.</h4>
-<br>
-<h3>Python projects:</h3>
-<p>- todotra: my take on a todo-tracker, the classic todo-list program. This is just here because it has to be in any portfolio.<br>
-<a href="https://github.com/noorac/todotra">https://github.com/noorac/todotra</a></p>
-<p>- pwdgen: a program that will generate random passwords of varying length and copy it to the clipboard.<br>
-<a href="https://github.com/noorac/pwdgen">https://github.com/noorac/pwdgen</a></p>
-<p>- Py-sort-collection: A collection of python scripts for different sorting algorithms.<br>
-<a href="https://github.com/noorac/py-sorting-algorithms">https://github.com/noorac/py-sorting-algorithms</a></p>
-<h3>Javascript journey:</h3>
-<p>- Javascript basic projects: is a fork from a tutorial from freecodecamp. I have recently started learning JS; I'm not too far along, but might aswell signal that I've started.<br>
-<a href="https://github.com/noorac/javascript-basic-projects">https://github.com/noorac/javascript-basic-projects</a></p>
-<h3>Some freelance web development:</h3>
-<a href="https://www.gbpsicoterapia.it/en">https://www.gbpsicoterapia.it/en</a>
-<p>
-  Website for an italian psychologist. Site is currently under construction and different themes being reviewed by the client. Site was built using wordpress/elementor.
-</p>
+---
 
+## Featured Projects
 
+### 1. [**Todotra**](https://github.com/noorac/todotra)
+A lightweight and efficient to-do tracker written in Python, designed for terminal-based productivity enthusiasts(The main reason for keeping this is because no portfolio is complete without a todo-list).
 
-<!--
-**noorac/noorac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **Features**:
+  - Add, remove, and list tasks directly from the terminal.
+  - Persistent task storage with a simple, human-readable format.
+- **Skills Demonstrated**:
+  - File I/O
+  - Command-line interface design
+  - Python fundamentals
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 2. [**Pwdgen**](https://github.com/noorac/pwdgen)
+A Python-based password generator that creates strong, customizable passwords. This tool is practical and part of my daily workflow.
+
+- **Features**:
+  - Adjustable length and complexity.
+  - Supports special characters, numbers, and uppercase/lowercase letters.
+- **Skills Demonstrated**:
+  - Randomization techniques
+  - User input handling
+  - Practical Python scripting
+
+---
+
+### 3. [**Py-Sorting-Algorithms**](https://github.com/noorac/py-sorting-algorithms)
+A collection of sorting algorithms implemented in Python, complete with detailed comments and modular design.
+
+- **Highlights**:
+  - Includes Quick Sort, Merge Sort, Heap Sort, Shell Sort, and more.
+  - Comprehensive documentation and example use cases.
+- **Skills Demonstrated**:
+  - Algorithm design and analysis
+  - Writing clean, modular, and efficient code
+  - Educational documentation
+
+---
+
+### 4. [**JavaScript Projects**](https://github.com/noorac/javascript-basic-projects)
+A collection of basic JavaScript projects inspired by freeCodeCamp tutorials.
+
+- **Description**: These projects were created to strengthen my understanding of JavaScript basics, including DOM manipulation, event handling, and functional programming principles.
+
+*Note: This repository is currently under consideration for inclusion in my portfolio as it represents beginner-level work.*
+
+---
+
+### 5. [**Psychology Practice Website**](https://gbpsicoterapia.it/en) *(In Progress)*
+A WordPress-based website designed for a private psychology practice, featuring custom content and an approachable design.
+
+- **Skills Demonstrated**:
+  - Website planning and design
+  - Content management with WordPress
+  - Client communication and project iteration
+
+*Note: This project is ongoing.*
+
+---
+
+## About Me
+
+I am a backend-focused developer with a passion for algorithmic problem-solving and data analysis. I use this portfolio to demonstrate my skills, highlight real-world projects, and document my learning journey. My interests lie in Python programming, backend development, and creating tools that solve practical problems.
+
+---
+
+## Contact
+
+Feel free to reach out if you'd like to collaborate or discuss my work:
+- **Email**: kjetil_paulsen@hotmail.com
+- **GitHub**: [Noorac](https://github.com/noorac)
+- **LinkedIn**: [Kjetil Paulsen](https://www.linkedin.com/in/kjetil-paulsen-631110b5/)
+
+---
+
+## Future Updates
+
+This portfolio will continue to grow as I complete more projects and refine my skills. Stay tuned for additional showcases and updates!
