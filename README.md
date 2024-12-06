@@ -7,7 +7,7 @@ Welcome to my portfolio! This repository showcases the projects I've developed t
 ## Featured Projects
 
 ### 1. [**Todotra**](https://github.com/noorac/todotra)
-A lightweight and efficient to-do tracker written in Python, designed for terminal-based productivity enthusiasts(The main reason for keeping this is because no portfolio is complete without a todo-list).
+A lightweight and efficient to-do tracker written in Python, designed for terminal-based productivity enthusiasts(The main reason for showcasing this is because no portfolio is complete without a todo-list).
 
 - **Features**:
   - Add, remove, and list tasks directly from the terminal.
