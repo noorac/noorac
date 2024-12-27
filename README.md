@@ -20,7 +20,7 @@ A lightweight and efficient to-do tracker written in Python, designed for termin
 ---
 
 ### 2. [**Pwdgen**](https://github.com/noorac/pwdgen)
-A Python-based password generator that creates strong, customizable passwords. This tool is practical and part of my daily workflow.
+A Python-based password generator that creates strong, customizable passwords. This tool is practical and is in use every time I need to create a new password.
 
 - **Features**:
   - Adjustable length and complexity.
