@@ -45,6 +45,21 @@ A collection of sorting algorithms implemented in Python, complete with detailed
 
 ---
 
+### 4. [**Trilobite**](https://github.com/noorac/trilobite)  
+A Python-based financial analysis tool designed to download, analyze, and visualize stock market data. Trilobite leverages data manipulation and visualization techniques, and aims to include machine learning capabilities in future iterations. Keep in mind this project is in the early stages.
+
+- **Features**:  
+  - Fetch and process financial data using the Yahoo Finance API via `yfinance`.  
+  - Tools for analyzing and visualizing trends in stock data.  
+  - Modular design for future integration of predictive models and AI.  
+
+- **Skills Demonstrated**:  
+  - Data analysis and visualization  
+  - API integration (Yahoo Finance)  
+  - Python programming and modular design  
+
+---  
+
 ### 4. [**JavaScript Projects**](https://github.com/noorac/javascript-basic-projects)
 A collection of basic JavaScript projects inspired by freeCodeCamp tutorials.
 
