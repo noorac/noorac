@@ -8,6 +8,7 @@ Welcome to my portfolio! This repository showcases the projects I've developed t
 
 ### 1. [**Todotra**](https://github.com/noorac/todotra) 
 *First project*
+
 A lightweight and efficient to-do tracker written in Python, designed for terminal-based productivity enthusiasts(The main reason for showcasing this is because no portfolio is complete without a todo-list).
 
 - **Features**:
@@ -22,6 +23,7 @@ A lightweight and efficient to-do tracker written in Python, designed for termin
 
 ### 2. [**Pwdgen**](https://github.com/noorac/pwdgen) 
 *Second project*
+
 A Python-based password generator that creates strong, customizable passwords. This tool is practical and I use it every time I need to create a new password.
 
 - **Features**:
@@ -36,6 +38,7 @@ A Python-based password generator that creates strong, customizable passwords. T
 
 ### 3. [**Py-Sorting-Algorithms**](https://github.com/noorac/py-sorting-algorithms) 
 *Third project*
+
 A collection of sorting algorithms implemented in Python, complete with detailed comments and modular design.
 
 - **Highlights**:
@@ -50,6 +53,7 @@ A collection of sorting algorithms implemented in Python, complete with detailed
 
 ### 4. [**Trilobite**](https://github.com/noorac/trilobite) 
 *Fourth project*
+
 A Python-based financial analysis tool designed to download, analyze, and visualize stock market data. Trilobite leverages data manipulation and visualization techniques, and aims to include machine learning capabilities in future iterations. Keep in mind this project is in the early stages.
 
 - **Features**:  
