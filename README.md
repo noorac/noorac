@@ -6,33 +6,20 @@ Welcome to my portfolio! This repository showcases the projects I've developed t
 
 ## Featured Projects
 
-### 1. [**Todotra**](https://github.com/noorac/todotra) 
-*First project*
+### 4. [**Trilobite**](https://github.com/noorac/trilobite) 
+*Fourth project*
 
-A lightweight and efficient to-do tracker written in Python, designed for terminal-based productivity enthusiasts(The main reason for showcasing this is because no portfolio is complete without a todo-list).
+A Python-based financial analysis tool designed to download, analyze, and visualize stock market data. Trilobite leverages data manipulation and visualization techniques, and aims to include machine learning capabilities in future iterations. Keep in mind this project is in the early stages.
 
-- **Features**:
-  - Add, remove, and list tasks directly from the terminal.
-  - Persistent task storage with a simple, human-readable format.
-- **Skills Demonstrated**:
-  - File I/O
-  - Command-line interface design
-  - Python fundamentals
+- **Features**:  
+  - Fetch and process financial data using the Yahoo Finance API via `yfinance`.  
+  - Tools for analyzing and visualizing trends in stock data.  
+  - Modular design for future integration of predictive models and AI.  
 
----
-
-### 2. [**Pwdgen**](https://github.com/noorac/pwdgen) 
-*Second project*
-
-A Python-based password generator that creates strong, customizable passwords. This tool is practical and I use it every time I need to create a new password.
-
-- **Features**:
-  - Adjustable length and complexity.
-  - Supports special characters, numbers, and uppercase/lowercase letters.
-- **Skills Demonstrated**:
-  - Randomization techniques
-  - User input handling
-  - Practical Python scripting
+- **Skills Demonstrated**:  
+  - Data analysis and visualization  
+  - API integration (Yahoo Finance)  
+  - Python programming and modular design  
 
 ---
 
@@ -51,24 +38,37 @@ A collection of sorting algorithms implemented in Python, complete with detailed
 
 ---
 
-### 4. [**Trilobite**](https://github.com/noorac/trilobite) 
-*Fourth project*
+### 2. [**Pwdgen**](https://github.com/noorac/pwdgen) 
+*Second project*
 
-A Python-based financial analysis tool designed to download, analyze, and visualize stock market data. Trilobite leverages data manipulation and visualization techniques, and aims to include machine learning capabilities in future iterations. Keep in mind this project is in the early stages.
+A Python-based password generator that creates strong, customizable passwords. This tool is practical and I use it every time I need to create a new password.
 
-- **Features**:  
-  - Fetch and process financial data using the Yahoo Finance API via `yfinance`.  
-  - Tools for analyzing and visualizing trends in stock data.  
-  - Modular design for future integration of predictive models and AI.  
+- **Features**:
+  - Adjustable length and complexity.
+  - Supports special characters, numbers, and uppercase/lowercase letters.
+- **Skills Demonstrated**:
+  - Randomization techniques
+  - User input handling
+  - Practical Python scripting
 
-- **Skills Demonstrated**:  
-  - Data analysis and visualization  
-  - API integration (Yahoo Finance)  
-  - Python programming and modular design  
+---
+
+### 1. [**Todotra**](https://github.com/noorac/todotra) 
+*First project*
+
+A lightweight and efficient to-do tracker written in Python, designed for terminal-based productivity enthusiasts(The main reason for showcasing this is because no portfolio is complete without a todo-list).
+
+- **Features**:
+  - Add, remove, and list tasks directly from the terminal.
+  - Persistent task storage with a simple, human-readable format.
+- **Skills Demonstrated**:
+  - File I/O
+  - Command-line interface design
+  - Python fundamentals
 
 ---  
 
-### 4. [**JavaScript Projects**](https://github.com/noorac/javascript-basic-projects)
+### 5. [**JavaScript Projects**](https://github.com/noorac/javascript-basic-projects)
 A collection of basic JavaScript projects inspired by freeCodeCamp tutorials.
 
 - **Description**: These projects were created to strengthen my understanding of JavaScript basics, including DOM manipulation, event handling, and functional programming principles.
@@ -77,7 +77,7 @@ A collection of basic JavaScript projects inspired by freeCodeCamp tutorials.
 
 ---
 
-### 5. [**Psychology Practice Website**](https://gbpsicoterapia.it/en) *(In Progress)*
+### 6. [**Psychology Practice Website**](https://gbpsicoterapia.it/en) *(In Progress)*
 A WordPress-based website designed for a private psychology practice, featuring custom content and an approachable design.
 
 - **Skills Demonstrated**:
