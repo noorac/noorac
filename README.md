@@ -91,7 +91,7 @@ A WordPress-based website designed for a private psychology practice, featuring 
 
 ## About Me
 
-I am a backend-focused developer with a passion for algorithmic problem-solving and data analysis. While this portfolio is still in its early stages, it can demonstrate some of my skills, highlight real-world projects, and document my learning journey. My interests lie in Python programming, backend development, and creating tools that solve practical problems.
+I am a backend-focused developer with a passion for algorithmic problem-solving and data analysis. While this portfolio is still in its early stages, it can demonstrate some of my skills, highlight real-world projects, and document my learning journey. My interests lie in Python programming, data analysis, and creating tools that solve practical problems.
 
 ---
 
