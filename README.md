@@ -1,5 +1,7 @@
 # Hi, my name is Kjetil Paulsen
 
+My interests lie in the intersection between data analytics, programming and math.
+
 Welcome to my portfolio! This repository showcases the projects I've developed to demonstrate my skills in Python programming, web development, and problem-solving. Below, you'll find a brief overview of each project with links to their respective repositories.
 
 ---
