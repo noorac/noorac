@@ -1,8 +1,7 @@
 # Hi, my name is Kjetil Paulsen
+Welcome to my portfolio! This repository is currently outdated, but i supposed to showcase the projects I've developed to demonstrate my skills in Python programming, web development, and problem-solving. Below, you'll find a brief overview of each project with links to their respective repositories. As I have been otherwize occupied with studies, this portfolio has been put on the backburner. I have learned loads, and realized the need for restructuring and refactoring my own code and my own projects, and as my official studies come to an end, I will be able to further develop these repositories. I have already started this work in my journal-repo, as this is a program I use daily, and is dear to me. But as mentioned, sadly, these repos are not up to date with, or representative of, my current knowledge, and are in need of refactoring.
 
 My interests lie in the intersection between data analytics, programming and math, genetic algorithms and neural networks. My main languge isbPython, but I am currently trying to expand my skills in C.
-
-Welcome to my portfolio! This repository showcases the projects I've developed to demonstrate my skills in Python programming, web development, and problem-solving. Below, you'll find a brief overview of each project with links to their respective repositories.
 
 ---
 
