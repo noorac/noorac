@@ -7,6 +7,25 @@ My interests lie in the intersection between data analytics, programming and mat
 
 ## Featured Projects
 
+### 4. [**Terminal Journal**](https://github.com/noorac/journal)  
+*Fifth project*
+
+A Python-based journaling application built with the `curses` library, providing a minimalist, keyboard-driven interface for writing, browsing, and managing personal entries directly in the terminal. The project focuses on low-level UI control, efficient text handling, and a distraction-free writing environment.
+
+- **Features**:  
+  - Full-screen terminal interface powered by `curses`.  
+  - Create, edit, and navigate journal entries using keyboard shortcuts.  
+  - Structured storage and retrieval of entries for long-term use.  
+  - Designed for extensibility (search, tagging, encryption, etc.).  
+
+- **Skills Demonstrated**:  
+  - Terminal UI programming with `curses`  
+  - File I/O and text processing  
+  - State management and user interaction design  
+  - Python application architecture  
+
+---
+
 ### 4. [**Trilobite**](https://github.com/noorac/trilobite) 
 *Fourth project*
 
