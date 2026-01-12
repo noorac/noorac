@@ -1,7 +1,7 @@
 # Hi, my name is Kjetil Paulsen
-Welcome to my portfolio! This repository is currently outdated, but is supposed to showcase the projects I've developed to demonstrate my skills in Python programming, web development, and problem-solving. Below, you'll find a brief overview of each project with links to their respective repositories. As I have been otherwise occupied with studies, this portfolio has been put on the backburner. I have learned loads, and realized the need for restructuring and refactoring my own code and my own projects, and as my official studies come to an end, I will be able to further develop these repositories. I have already started this work in my journal-repo, as this is a program I use daily, and is dear to me. But as mentioned, sadly, these repos are not up to date with, or representative of, my current knowledge or skill, and are in need of refactoring.
+Welcome to my portfolio! This repository is currently outdated(though project 5 is somewhat ongoing), but is supposed to showcase the projects I've developed to demonstrate my skills in Python programming, web development, and problem-solving. Below, you'll find a brief overview of each project with links to their respective repositories. As I have been otherwise occupied with studies, this portfolio has been put on the backburner. I have learned a lot, and realized the need for restructuring and refactoring my own code and my own projects, and as my official studies come to an end, I will be able to further develop these repositories. I have already started this work in my journal-repo, as this is a program I use daily, and is dear to me. But as mentioned, sadly, these repos are not up to date with, or representative of, my current knowledge or skill, and are in need of refactoring.
 
-My interests lie in the intersection between data analytics, programming and math, genetic algorithms and neural networks. My main languge isbPython, but I am currently trying to expand my skills in C.
+My interests lie in the intersection between software development, data analytics, mathemathics, genetic algorithms and neural networks. My main languge is Python, but I am currently trying to expand my skills in C/C++.
 
 ---
 
@@ -27,6 +27,7 @@ A Python-based journaling application built with the `curses` library, providing
 ---
 
 ### 4. [**Trilobite**](https://github.com/noorac/trilobite) 
+*This project has not been updated in a long time and does not reflect my current knowledge*
 *Fourth project*
 
 A Python-based financial analysis tool designed to download, analyze, and visualize stock market data. Trilobite leverages data manipulation and visualization techniques, and aims to include machine learning capabilities in future iterations. Keep in mind this project is in the early stages.
@@ -44,6 +45,7 @@ A Python-based financial analysis tool designed to download, analyze, and visual
 ---
 
 ### 3. [**Py-Sorting-Algorithms**](https://github.com/noorac/py-sorting-algorithms) 
+*This project has not been updated in a long time and does not reflect my current knowledge*
 *Third project*
 
 A collection of sorting algorithms implemented in Python, complete with detailed comments and modular design.
@@ -59,6 +61,7 @@ A collection of sorting algorithms implemented in Python, complete with detailed
 ---
 
 ### 2. [**Pwdgen**](https://github.com/noorac/pwdgen) 
+*This project has not been updated in a long time and does not reflect my current knowledge*
 *Second project*
 
 A Python-based password generator that creates strong, customizable passwords. This tool is practical and I use it every time I need to create a new password.
@@ -74,6 +77,7 @@ A Python-based password generator that creates strong, customizable passwords. T
 ---
 
 ### 1. [**Todotra**](https://github.com/noorac/todotra) 
+*This project has not been updated in a long time and does not reflect my current knowledge*
 *First project*
 
 A lightweight and efficient to-do tracker written in Python, designed for terminal-based productivity enthusiasts(The main reason for showcasing this is because no portfolio is complete without a todo-list).
@@ -89,6 +93,7 @@ A lightweight and efficient to-do tracker written in Python, designed for termin
 ---  
 
 ### 5. [**JavaScript Projects**](https://github.com/noorac/javascript-basic-projects)
+*This project has not been updated in a long time and does not reflect my current knowledge*
 A collection of basic JavaScript projects inspired by freeCodeCamp tutorials.
 
 - **Description**: These projects were created to strengthen my understanding of JavaScript basics, including DOM manipulation, event handling, and functional programming principles.
@@ -98,6 +103,7 @@ A collection of basic JavaScript projects inspired by freeCodeCamp tutorials.
 ---
 
 ### 6. [**Psychology Practice Website**](https://gbpsicoterapia.it/en) *(In Progress)*
+*This project is more of a sideproject to help relatives, and is not meat to demonstrate anything other than very basic knowledge of webdesign*
 A WordPress-based website designed for a private psychology practice, featuring custom content and an approachable design.
 
 - **Skills Demonstrated**:
@@ -109,11 +115,6 @@ A WordPress-based website designed for a private psychology practice, featuring 
 
 ---
 
-## About Me
-
-I am a backend-focused developer with a passion for algorithmic problem-solving and data analysis. While this portfolio is still in its early stages, it can demonstrate some of my skills, highlight real-world projects, and document my learning journey. My interests lie in Python programming, data analysis, and creating tools that solve practical problems.
-
----
 
 ## Contact
 
