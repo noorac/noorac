@@ -73,7 +73,7 @@ A Python-based password generator that creates strong, customizable passwords. T
 ---  
 
 
-### 5. [**Psychology Practice Website**](https://gbpsicoterapia.it/en) *(In Progress)*
+### 5. [**Psychology Practice Website**](https://gbpsicoterapia.it/en) 
 *This project is more of a sideproject to help relatives, and is not meat to demonstrate anything other than very basic knowledge of webdesign*
 A WordPress-based website designed for a private psychology practice, featuring custom content and an approachable design.
 
