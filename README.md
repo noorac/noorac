@@ -13,7 +13,7 @@ My interests lie in the intersection between software development, data analysis
 A Python-based financial analysis tool designed to download, analyze, and visualize stock market data. Trilobite leverages data manipulation and visualization techniques, and aims to include machine learning capabilities in future iterations. Keep in mind this project is in the early stages.
 
 - **Features**:  
-  - Fetch and process financial data using the Yahoo Finance API via `yfinance`.  
+  - Fetch and process financial data using the Yahoo Finance API via `yfinance`, then store data in PostgreSQL.  
   - Tools for analyzing and visualizing trends in stock data.  
   - Modular design for future integration of predictive models and AI.  
 
