@@ -12,7 +12,7 @@ My interests lie in the intersection between software development, data analysis
 
 A Kotlin/Neo4j project to use the network-management example-dump from neo4j to get my feet wet with Kotlin/Neo4j/Cypher
 
--**Features**
+- **Features**
   - Downloads the dump file from neo4j's github
 
 - **Skills Demonstrated**
